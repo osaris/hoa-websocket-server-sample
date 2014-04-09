@@ -1,0 +1,7 @@
+{
+  "name":"websocket-server",
+  "require": {
+    "hoa/websocket":"dev-master"
+  },
+  "minimum-stability":"dev"
+}
